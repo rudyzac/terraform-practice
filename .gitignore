@@ -21,3 +21,6 @@ terraform.rc
 .Spotlight-V100
 .Trashes
 
+# env files
+.env
+.env.*
